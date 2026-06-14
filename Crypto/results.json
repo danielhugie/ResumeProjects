@@ -1,0 +1,218 @@
+{
+    "run_time_utc": "2026-06-14 20:11:43",
+    "api_source": "CoinGecko API",
+    "vs_currency": "usd",
+    "days_requested": 365,
+    "best_overall_result": {
+        "coin_name": "Bitcoin Cash",
+        "strategy_name": "Mean Reversion",
+        "total_profit": 196.15,
+        "percent_return": 50.86
+    },
+    "coins": [
+        {
+            "coin_id": "bitcoin",
+            "coin_name": "Bitcoin",
+            "rows_in_csv": 423,
+            "new_rows_added": 0,
+            "latest_date": "2026-06-14",
+            "latest_price": 63789.59,
+            "simple_moving_average": {
+                "strategy_name": "Simple Moving Average",
+                "total_profit": -15138.14,
+                "first_buy": 110212.73,
+                "percent_return": -13.74,
+                "completed_trades": 10,
+                "last_signal": "HODL",
+                "currently_holding": false,
+                "latest_price": 63789.59,
+                "latest_date": "2026-06-14"
+            },
+            "mean_reversion": {
+                "strategy_name": "Mean Reversion",
+                "total_profit": -19703.19,
+                "first_buy": 110185.35,
+                "percent_return": -17.88,
+                "completed_trades": 5,
+                "last_signal": "HODL",
+                "currently_holding": true,
+                "latest_price": 63789.59,
+                "latest_date": "2026-06-14"
+            },
+            "messages": [
+                "No buy or sell signal today for Bitcoin using the Simple Moving Average strategy.",
+                "No buy or sell signal today for Bitcoin using the Mean Reversion strategy."
+            ]
+        },
+        {
+            "coin_id": "ethereum",
+            "coin_name": "Ethereum",
+            "rows_in_csv": 423,
+            "new_rows_added": 0,
+            "latest_date": "2026-06-14",
+            "latest_price": 1663.97,
+            "simple_moving_average": {
+                "strategy_name": "Simple Moving Average",
+                "total_profit": -938.51,
+                "first_buy": 2610.34,
+                "percent_return": -35.95,
+                "completed_trades": 13,
+                "last_signal": "HODL",
+                "currently_holding": false,
+                "latest_price": 1663.97,
+                "latest_date": "2026-06-14"
+            },
+            "mean_reversion": {
+                "strategy_name": "Mean Reversion",
+                "total_profit": 87.34,
+                "first_buy": 2421.6,
+                "percent_return": 3.61,
+                "completed_trades": 9,
+                "last_signal": "HODL",
+                "currently_holding": true,
+                "latest_price": 1663.97,
+                "latest_date": "2026-06-14"
+            },
+            "messages": [
+                "No buy or sell signal today for Ethereum using the Simple Moving Average strategy.",
+                "No buy or sell signal today for Ethereum using the Mean Reversion strategy."
+            ]
+        },
+        {
+            "coin_id": "litecoin",
+            "coin_name": "Litecoin",
+            "rows_in_csv": 423,
+            "new_rows_added": 0,
+            "latest_date": "2026-06-14",
+            "latest_price": 44.18,
+            "simple_moving_average": {
+                "strategy_name": "Simple Moving Average",
+                "total_profit": -66.28,
+                "first_buy": 88.0,
+                "percent_return": -75.32,
+                "completed_trades": 13,
+                "last_signal": "HODL",
+                "currently_holding": false,
+                "latest_price": 44.18,
+                "latest_date": "2026-06-14"
+            },
+            "mean_reversion": {
+                "strategy_name": "Mean Reversion",
+                "total_profit": 40.01,
+                "first_buy": 85.79,
+                "percent_return": 46.64,
+                "completed_trades": 12,
+                "last_signal": "HODL",
+                "currently_holding": true,
+                "latest_price": 44.18,
+                "latest_date": "2026-06-14"
+            },
+            "messages": [
+                "No buy or sell signal today for Litecoin using the Simple Moving Average strategy.",
+                "No buy or sell signal today for Litecoin using the Mean Reversion strategy."
+            ]
+        },
+        {
+            "coin_id": "ripple",
+            "coin_name": "Ripple",
+            "rows_in_csv": 423,
+            "new_rows_added": 0,
+            "latest_date": "2026-06-14",
+            "latest_price": 1.13,
+            "simple_moving_average": {
+                "strategy_name": "Simple Moving Average",
+                "total_profit": -0.89,
+                "first_buy": 2.27,
+                "percent_return": -39.21,
+                "completed_trades": 12,
+                "last_signal": "HODL",
+                "currently_holding": false,
+                "latest_price": 1.13,
+                "latest_date": "2026-06-14"
+            },
+            "mean_reversion": {
+                "strategy_name": "Mean Reversion",
+                "total_profit": 1.01,
+                "first_buy": 2.27,
+                "percent_return": 44.49,
+                "completed_trades": 12,
+                "last_signal": "HODL",
+                "currently_holding": true,
+                "latest_price": 1.13,
+                "latest_date": "2026-06-14"
+            },
+            "messages": [
+                "No buy or sell signal today for Ripple using the Simple Moving Average strategy.",
+                "No buy or sell signal today for Ripple using the Mean Reversion strategy."
+            ]
+        },
+        {
+            "coin_id": "bitcoin-cash",
+            "coin_name": "Bitcoin Cash",
+            "rows_in_csv": 423,
+            "new_rows_added": 0,
+            "latest_date": "2026-06-14",
+            "latest_price": 199.01,
+            "simple_moving_average": {
+                "strategy_name": "Simple Moving Average",
+                "total_profit": -193.39,
+                "first_buy": 437.94,
+                "percent_return": -44.16,
+                "completed_trades": 11,
+                "last_signal": "HODL",
+                "currently_holding": false,
+                "latest_price": 199.01,
+                "latest_date": "2026-06-14"
+            },
+            "mean_reversion": {
+                "strategy_name": "Mean Reversion",
+                "total_profit": 196.15,
+                "first_buy": 385.69,
+                "percent_return": 50.86,
+                "completed_trades": 9,
+                "last_signal": "HODL",
+                "currently_holding": true,
+                "latest_price": 199.01,
+                "latest_date": "2026-06-14"
+            },
+            "messages": [
+                "No buy or sell signal today for Bitcoin Cash using the Simple Moving Average strategy.",
+                "No buy or sell signal today for Bitcoin Cash using the Mean Reversion strategy."
+            ]
+        },
+        {
+            "coin_id": "eos",
+            "coin_name": "EOS",
+            "rows_in_csv": 423,
+            "new_rows_added": 0,
+            "latest_date": "2026-06-14",
+            "latest_price": 0.07,
+            "simple_moving_average": {
+                "strategy_name": "Simple Moving Average",
+                "total_profit": -0.14,
+                "first_buy": 0.54,
+                "percent_return": -25.93,
+                "completed_trades": 7,
+                "last_signal": "HODL",
+                "currently_holding": false,
+                "latest_price": 0.07,
+                "latest_date": "2026-06-14"
+            },
+            "mean_reversion": {
+                "strategy_name": "Mean Reversion",
+                "total_profit": -0.46,
+                "first_buy": 0.76,
+                "percent_return": -60.53,
+                "completed_trades": 8,
+                "last_signal": "HODL",
+                "currently_holding": true,
+                "latest_price": 0.07,
+                "latest_date": "2026-06-14"
+            },
+            "messages": [
+                "No buy or sell signal today for EOS using the Simple Moving Average strategy.",
+                "No buy or sell signal today for EOS using the Mean Reversion strategy."
+            ]
+        }
+    ]
+}
